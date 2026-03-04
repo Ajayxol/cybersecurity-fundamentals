@@ -48,30 +48,6 @@ Each satisfied condition increases the **password strength score**.
 
 ---
 
-## ▶️ Usage
-
-1. Clone the repository
-
-```
-git clone https://github.com/your-username/password-strength-checker.git
-```
-
-2. Navigate to the project folder
-
-```
-cd password-strength-checker
-```
-
-3. Run the program
-
-```
-python password_checker.py
-```
-
-4. Enter a password when prompted to see its strength.
-
----
-
 ## 🧪 Example
 
 ```

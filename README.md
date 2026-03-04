@@ -36,6 +36,7 @@ A Python program that evaluates the strength of a password based on security bes
 * Password security
 * Regular expressions
 * Input validation
+* Libraries 
 
 ---
 

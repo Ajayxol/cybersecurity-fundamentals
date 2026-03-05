@@ -31,33 +31,6 @@ A Python program that evaluates the strength of a password based on security bes
 * Detects special characters
 * Classifies passwords as **Weak, Moderate, or Strong**
 
-**Concepts Learned**
-
-* Password security
-* Regular expressions
-* Input validation
-* Libraries 
-
----
-
-## 🧠 Cybersecurity Concepts Covered
-
-This repository focuses on learning the fundamentals of:
-
-* Password Security
-* Authentication Basics
-* Cryptography Basics
-* Secure Coding Practices
-* Vulnerability Awareness
-
----
-
-## 💻 Technologies Used
-
-* **Python 3**
-* **Regular Expressions (`re` module)**
-* Standard Python libraries
-
 ---
 
 ## 🎯 Learning Purpose
